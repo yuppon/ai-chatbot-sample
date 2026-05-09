@@ -66,7 +66,7 @@ code 01_LED_Blink
 
 ---
 
-## 参考・憧れプロジェクト
+## 参考
 
 - [StackChan Minimal](https://github.com/A-Uta/AI_StackChan_Minimal) — このリポジトリの動機になった素晴らしいプロジェクト
 - [PlatformIO 公式ドキュメント](https://docs.platformio.org/)
