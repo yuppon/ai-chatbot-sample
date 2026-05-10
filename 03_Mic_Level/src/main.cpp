@@ -7,7 +7,7 @@ static int16_t buf[BUF_LEN];
 
 void setup() {
   auto cfg = M5.config();
-  cfg.external_speaker.atomic_echo = true;       // 章②と同じく atomic_echo を有効
+  cfg.external_speaker.atomic_echo = true;
   M5.begin(cfg);
 
   Serial.begin(115200);
