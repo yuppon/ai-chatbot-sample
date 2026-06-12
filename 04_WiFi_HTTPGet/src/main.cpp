@@ -48,7 +48,7 @@ bool fetch_global_ip(String& out_ip) {
   Serial.printf("Body: %s\n", body.c_str());
 
   // JSON パース
-  StaticJsonDocument<1024> doc;
+  JsonDocument doc;
   DeserializationError err = deserializeJson(doc, body);
   if (err) {
     Serial.printf("JSON error: %s\n", err.c_str());
