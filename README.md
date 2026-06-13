@@ -169,5 +169,13 @@ OLLAMA_HOST=0.0.0.0 ollama serve
 ## ライセンス
 
 [MIT License](./LICENSE)
-
 学習用のサンプルコードです。自由に参考・改変してください。
+
+## クレジット
+
+本プロジェクトでは音声合成に [VOICEVOX](https://voicevox.hiroshiba.jp/) を使用しています。
+
+- VOICEVOX:ずんだもん
+- VOICEVOX:春日部つむぎ
+
+各キャラクターの利用規約に従ってご利用ください。
