@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 #include "secrets.h"   // WIFI_SSID, WIFI_PASSWORD, VOICEVOX_BASE
 
-static const int SPEAKER_ID = 3;   // 3 = ずんだもん(ノーマル)。他のIDは Appendix 参照
+static const int SPEAKER_ID = 8;   // 3 = ずんだもん(ノーマル)。他のIDは Appendix 参照
 
 // ============================================================
 // URLエンコード（日本語をURLに乗せるための変換）
