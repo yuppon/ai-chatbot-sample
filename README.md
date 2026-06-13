@@ -40,18 +40,18 @@ Arduinoはそこそこいじってきたけど、UIFLOW2とかM5Burnerとかの�
 
 ## 各章
 
-| # | フォルダ | 内容 | ブログ記事 |
+| # | フォルダ | ブログ記事 |
 |---|---|---|---|
-| ① | [01_LED_Blink](./01_LED_Blink) | PlatformIO環境構築とLチカ（画面の色変更＋シリアル出力） | 公開済み |
-| ② | [02_Speaker_Tone](./02_Speaker_Tone) | Atomic Echo Base で音を鳴らす | 公開済み |
-| ③ | [03_Mic_Level](./03_Mic_Level) | マイクで音量を測ってみる | 公開済み |
-| ④ | [04_WiFi_HTTPGet](./04_WiFi_HTTPGet) | Wi-Fi に繋いで HTTP GET（httpbin） | 公開済み |
-| ⑤ | – (Mac側) | Mac に whisper.cpp サーバーを立てる | 公開済み |
-| ⑥ | [06_PTT_Record](./06_PTT_Record) | PTT録音 → whisper で文字起こし | 公開済み |
-| ⑦ | – (Mac側) | Mac に Ollama + Gemma 3 を立てる | 公開済み |
-| ⑧ | [08_LLM_Chat](./08_LLM_Chat) | 文字起こし結果を Gemma に投げて返事を表示 | 公開済み |
-| ⑨ | [09_TTS_Demo](./09_TTS_Demo) | VOICEVOX で合成した音声を再生（最小デモ） | 公開済み |
-| ⑩ | [10_Full_Chat](./10_Full_Chat) | 耳・脳・口を全部繋いで音声会話（最終回） | 公開済み |
+| ① | [01_LED_Blink](./01_LED_Blink) | [PlatformIO環境構築とLチカ（画面の色変更＋シリアル出力）](https://zenn.dev/yuppon/articles/264bc4ed88a126) |
+| ② | [02_Speaker_Tone](./02_Speaker_Tone) | [Atomic Echo Base で音を鳴らす](https://zenn.dev/yuppon/articles/fc1bf784f302f2) |
+| ③ | [03_Mic_Level](./03_Mic_Level) | [マイクで音量を測ってみる](https://zenn.dev/yuppon/articles/64a8dcf3b34e49) | 
+| ④ | [04_WiFi_HTTPGet](./04_WiFi_HTTPGet) | [Wi-Fi に繋いで HTTP GET（httpbin）](https://zenn.dev/yuppon/articles/ce524c41bed3f5) |
+| ⑤ | – (Mac側) | [Mac に whisper.cpp サーバーを立てる](https://zenn.dev/yuppon/articles/1e5744eab9885f) |
+| ⑥ | [06_PTT_Record](./06_PTT_Record) | [PTT録音 → whisper で文字起こし](https://zenn.dev/yuppon/articles/e6a71ec1b2fa31) |
+| ⑦ | – (Mac側) | [Mac に Ollama + Gemma 3 を立てる](https://zenn.dev/yuppon/articles/cb428076f54072) |
+| ⑧ | [08_LLM_Chat](./08_LLM_Chat) | [文字起こし結果を Gemma に投げて返事を表示](https://zenn.dev/yuppon/articles/f902dd182e0c75) |
+| ⑨ | [09_TTS_Demo](./09_TTS_Demo) | [VOICEVOX で合成した音声を再生（最小デモ）](https://zenn.dev/yuppon/articles/a3f6f84b814b80) |
+| ⑩ | [10_Full_Chat](./10_Full_Chat) | [耳・脳・口を全部繋いで音声会話（最終回）](https://zenn.dev/yuppon/articles/9e1b44081d8dca) |
 
 ⑤と⑦は Mac 側のセットアップ回なので、このリポジトリにコードはありません。
 
